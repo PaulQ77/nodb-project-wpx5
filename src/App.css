@@ -1,0 +1,31 @@
+
+.App {
+  /* border: 3px solid blue; */
+  /* text-align: center; */
+  background-color: black;
+
+}
+
+.inner-container {
+  color: black;
+  text-align: center;
+  background-color:rgb(122, 153, 199);
+  padding-bottom: 800px;
+  /* border: 1px solid red; */
+
+
+  
+}
+
+.header {
+  color: lightgray;
+  font-size: 35px;
+  height: 60px;
+  background-color: black;
+  /* border: 1px solid yellow */
+  
+}
+
+
+
+
